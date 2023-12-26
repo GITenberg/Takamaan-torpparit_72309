@@ -1,0 +1,24 @@
+_repo: Takamaan-torpparit_72309
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Niemelä, Nestor
+    gutenberg_agent_id: '56645'
+    url: http://www.gutenberg.org/2009/agents/56645
+description: ''
+gutenberg_issued: '2023-12-04'
+identifiers:
+  gutenberg: '72309'
+language: fi
+pgterms:marc905: 20230721101201niemel
+pgterms:marc906: '1889'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWerner Söderström, $c1889.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Takamaan torpparit
+url: http://www.gutenberg.org/ebooks/72309
