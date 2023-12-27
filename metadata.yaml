@@ -1,11 +1,16 @@
 _repo: Takamaan-torpparit_72309
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Niemelä, Nestor
     gutenberg_agent_id: '56645'
     url: http://www.gutenberg.org/2009/agents/56645
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72309#Takamaan-torpparit
 gutenberg_issued: '2023-12-04'
 identifiers:
   gutenberg: '72309'
